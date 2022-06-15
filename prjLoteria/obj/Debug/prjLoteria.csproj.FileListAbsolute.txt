@@ -1,0 +1,9 @@
+D:\prjLoteria\Loteria\prjLoteria\bin\Debug\prjLoteria.exe.config
+D:\prjLoteria\Loteria\prjLoteria\obj\Debug\prjLoteria.csprojResolveAssemblyReference.cache
+D:\prjLoteria\Loteria\prjLoteria\obj\Debug\prjLoteria.Form1.resources
+D:\prjLoteria\Loteria\prjLoteria\obj\Debug\prjLoteria.Properties.Resources.resources
+D:\prjLoteria\Loteria\prjLoteria\obj\Debug\prjLoteria.csproj.GenerateResource.Cache
+D:\prjLoteria\Loteria\prjLoteria\bin\Debug\prjLoteria.exe
+D:\prjLoteria\Loteria\prjLoteria\bin\Debug\prjLoteria.pdb
+D:\prjLoteria\Loteria\prjLoteria\obj\Debug\prjLoteria.exe
+D:\prjLoteria\Loteria\prjLoteria\obj\Debug\prjLoteria.pdb
